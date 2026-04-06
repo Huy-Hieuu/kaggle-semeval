@@ -1,0 +1,18 @@
+# Data files
+Task_A/
+cache/
+*.parquet
+*.zip
+
+# Model artifacts
+models/
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
